@@ -14,7 +14,10 @@ This is her [github page](https://github.com/yunyiwinnieshe)
 
 [ReadMe file](/README.md)
 
-She likes fruit
+She likes fruit:
+- George Washington
+- John Adams
+- Thomas Jefferson
 - apple
 - strawberry
 - peach
@@ -26,8 +29,8 @@ Her favorite colors are:
    
 
 Here are the homework she needs to do:
-[x] CSE 110 Lab
-[x] Math 103A HW
-[ ] Math 20E HW
+- [x] CSE 110 Lab
+- [x] Math 103A HW
+- [ ] Math 20E HW
 
 Click [top](#winnies-user-page) to go back to top
