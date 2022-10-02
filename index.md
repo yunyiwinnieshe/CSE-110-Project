@@ -1,4 +1,4 @@
-# Winnie's User Page
+# Winnie's User Page #
 **She is a fourth year student at UC San Diego**
 *She is taking CSE 110 this quarter*
 >She has said that coding is fun and difficult
@@ -15,12 +15,12 @@ This is her [github page](https://github.com/yunyiwinnieshe)
 [ReadMe file](/README.md)
 
 She likes fruit:
-- George Washington
-- John Adams
-- Thomas Jefferson
-- apple
-- strawberry
-- peach
+* George Washington
+* John Adams
+* Thomas Jefferson
+* apple
+* strawberry
+* peach
 
 Her favorite colors are:
 1. Red
