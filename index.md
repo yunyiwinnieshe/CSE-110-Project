@@ -15,9 +15,9 @@ This is her [github page](https://github.com/yunyiwinnieshe)
 [ReadMe file](/README.md)
 
 She likes fruit
--apple
--strawberry
--peach
+- apple
+- strawberry
+- peach
 
 Her favorite colors are:
 1. Red
